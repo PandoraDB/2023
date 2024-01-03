@@ -14,7 +14,7 @@
 ### Installation
 
 - Install PyTorch . We have tested on version of 1.12.1, but the other versions should also be working
-- Install MMCV and other dependencies to complete editing our code under the MMYOLO framework.
+- Install MMCV and other dependencies to complete editing our code under the [MMYOLO](https://github.com/open-mmlab/mmyolo/blob/main/docs/en/get_started/installation.md) framework.
 
 ### Train
 
